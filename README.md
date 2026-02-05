@@ -48,11 +48,17 @@ with realistic preprocessing and modeling decisions.
 ## Project Structure
 
 src/
+
 ├── 1_load_and_inspect.py # Load data and inspect structure
+
 ├── 2_clean_and_preprocess.py # Data cleaning and preprocessing
+
 ├── 3_eda.py # Exploratory data analysis
+
 ├── 4_feature_engineering.py # Feature creation and transformation
+
 ├── 5_model_training.py # Model training and experimentation
+
 └── 6_evaluation.py # Model evaluation and metrics
 
 
