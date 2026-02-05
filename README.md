@@ -1,6 +1,6 @@
 # athlete-fatigue-ml
 
-#Planning doc: https://docs.google.com/document/d/1AimYD6jyMrW4t6Wq4VwZDfa4y95RerIWJffxuVSmWOI/edit?usp=sharing
+Planning doc: https://docs.google.com/document/d/1AimYD6jyMrW4t6Wq4VwZDfa4y95RerIWJffxuVSmWOI/edit?usp=sharing
 
 ## Overview
 This project explores how machine learning can be used to analyze fitness-tracking data
